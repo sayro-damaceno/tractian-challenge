@@ -1,5 +1,7 @@
+import AssetsPage from "./views/companies/CompaniesPage";
+
 function App() {
-	return <div>Teste</div>;
+	return <AssetsPage />;
 }
 
 export default App;
